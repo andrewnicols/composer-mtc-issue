@@ -2,7 +2,7 @@
     "name": "nicols/mct",
     "description": "Moodle Composer Testing",
     "require": {
-        "moodlehq/behat-extension": "1.28.6"
+        "moodlehq/behat-extension": "1.28.8"
     },
     "authors": [
         {
