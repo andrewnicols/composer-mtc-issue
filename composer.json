@@ -1,0 +1,13 @@
+{
+    "name": "nicols/mct",
+    "description": "Moodle Composer Testing",
+    "require": {
+        "moodlehq/behat-extension": "1.28.6"
+    },
+    "authors": [
+        {
+            "name": "Andrew Nicols",
+            "email": "andrew@nicols.co.uk"
+        }
+    ]
+}
